@@ -3,9 +3,20 @@ body {
 }
 
 .banner-container {
+    position: relative;
+    height: 750px;
+    background: url(/img/home2.jpg) no-repeat;
     background-color: #cacaca;
+    background-size: cover;
 }
 
 .banner-column {
     background-color: #8d8d8d;
+    opacity: 0.6;
+
+}
+
+h1,
+h4 {
+    color: brown;
 }
